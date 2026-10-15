@@ -35,5 +35,7 @@ This project reinforced how Excel remains one of the most powerful tools for bus
 Every dashboard I build is an opportunity to learn something new, improve my analytical thinking, and create visualizations that help stakeholders make informed decisions.
 
 I would love to hear your feedback and suggestions. Constructive comments are always appreciated!
+
 https://github.com/PPShivaShankar/Excel-End-to-End-Dashboard/blob/60f3e8c48ecec0aba3057a311603b4f5277259a6/Super%20Store%20Sales%20Analysis%20Dashboard/My%20Sales%20Dashboard%20Image.JPG
+
 #MicrosoftExcel #ExcelDashboard #DataAnalytics #BusinessAnalytics #DashboardDesign #DataVisualization #ExcelSkills #BusinessIntelligence #PowerQuery #PivotTable #LearningJourney #Analytics #PortfolioProject #ContinuousLearning #DataStorytelling #OpenToOpportunities
