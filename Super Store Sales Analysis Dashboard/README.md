@@ -36,6 +36,6 @@ Every dashboard I build is an opportunity to learn something new, improve my ana
 
 I would love to hear your feedback and suggestions. Constructive comments are always appreciated!
 
-https://github.com/PPShivaShankar/Excel-End-to-End-Dashboard/blob/60f3e8c48ecec0aba3057a311603b4f5277259a6/Super%20Store%20Sales%20Analysis%20Dashboard/My%20Sales%20Dashboard%20Image.JPG
+<img src="https://github.com/PPShivaShankar/Excel-End-to-End-Dashboard/blob/60f3e8c48ecec0aba3057a311603b4f5277259a6/Super%20Store%20Sales%20Analysis%20Dashboard/My%20Sales%20Dashboard%20Image.JPG"alt"="image Description" width="600">
 
 #MicrosoftExcel #ExcelDashboard #DataAnalytics #BusinessAnalytics #DashboardDesign #DataVisualization #ExcelSkills #BusinessIntelligence #PowerQuery #PivotTable #LearningJourney #Analytics #PortfolioProject #ContinuousLearning #DataStorytelling #OpenToOpportunities
